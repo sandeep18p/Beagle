@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 10px;
+}
+
+.rectangle-border {
+    border: 2px solid black; /* Change properties as needed */
+            padding: 20px; /* Adjust padding to create space between content and border */
+            display: inline-block;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.image {
+    width: 300px; /* Set the width of the image */
+    height: auto; /* Automatically adjust height to maintain aspect ratio */
+}
+ol {
+    padding-left: 20px; /* Adjust the padding to your preference */
+}
